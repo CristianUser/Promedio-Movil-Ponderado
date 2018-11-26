@@ -62,4 +62,7 @@ var calculatePond = (nElement)=>{
         
       $('#submitButton').addClass("disabled");
       });
+      $('#refreshButton').click(()=>{
+        window.location.reload(true);
+      });
     });
