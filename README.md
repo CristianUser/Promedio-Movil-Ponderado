@@ -1,0 +1,1 @@
+"# Promedio-Movil-Ponderado" 
